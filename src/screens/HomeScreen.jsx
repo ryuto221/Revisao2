@@ -1,5 +1,6 @@
 import { Text } from "react-native";
 import { View } from "react-native-paper";
+import styles from "../utils/styles";
 
 
 export default function HomeScreen(){
